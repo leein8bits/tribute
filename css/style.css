@@ -1,0 +1,47 @@
+body {
+  margin: 60px;
+  font-size: 100%;
+}
+
+h1 {
+  font-family: 'Amarante', Arial, serif;
+  font-size: 5em;
+  background-color: whitesmoke;
+  border-style: double;
+  padding: 10px;
+}
+
+ul {
+  font-size: 1.25em;
+}
+
+.row-centered {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1000px;
+  text-align: center;
+}
+
+.col-centered {
+  display: inline-block;
+  float: none;
+  text-align: left;
+}
+
+#timeline {
+  background-color: darkgray;
+}
+
+.container-fluid {
+  background-color: lightgray;
+}
+
+.container {
+  background-color: lightgray;
+  border-style: double;
+}
+
+.footer {
+  text-align: center;
+  background-color: whitesmoke;
+}
